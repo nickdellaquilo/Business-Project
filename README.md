@@ -1,1 +1,7 @@
-## [Tableau Worksheet](https://public.tableau.com/profile/nicholas.dell.aquilo#!/vizhome/MetisBusinessProject/Sheet1?publish=yes)
+# Expanding Your Outdoor Restaurant Location in New York City
+
+Nicholas Dell'Aquilo
+
+## [Project Proposal](https://github.com/nickdellaquilo/Business-Project/blob/main/Project-Proposal.md)
+
+## [MVP](https://github.com/nickdellaquilo/Business-Project/blob/main/MVP.md)
