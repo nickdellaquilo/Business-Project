@@ -1,4 +1,4 @@
-# Expanding Your Outdoor Restaurant Location in New York City
+# Expanding Your Restaurant Location in New York City
 
 Nicholas Dell'Aquilo
 
