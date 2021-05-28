@@ -2,7 +2,7 @@
 Nicholas Dell'Aquilo
 
 ## Abstract
-The goal of this project was to design 
+The goal of this project was to create a scoped project proposal and perform preliminary analysis for a chain restaurant. I worked with dataset from New York City Open Data, which was filtered in Excel. Data on the locations of restaurants and the nutritional information of menu items at restaurant chains was used to create visualizations. I created a presentation to communicate my findings from this exploratory data analysis, and to explain the data science solution path that could be taken in the future.
 
 ## Design
 The project is designed to aid a restaurant chain in their efforts to expand their business. This concept developed in two different directions where an opportunity could be found: where can a new chain location be opened, and what new items that are offered at other restaurants could be added to the menu? The desired business impact of both of these opportunities is to reach new customers. Preliminary analysis consisted of exploring datasets and creating visualizations to understand patterns and relationships in them. The ideal, long-term data science solution path would be to create a prescriptive model of where the best area for a new location is, and what new menu item(s) should be added. The impact hypothesis of this model is that it would be able to find the option(s) that either attract the most new customers or generate the most revenue, depending on the priorities of the business.
@@ -19,7 +19,7 @@ Both datasets were filtered to remove duplicates, null values, and extreme outli
 * Tableau for data visualizations
 
 ## Communication
-My presentation is located [here]().
+My presentation is located [here](https://github.com/nickdellaquilo/Business-Project/blob/main/Project-Presentation.pdf).
 
 The dashboard for the location dataset is located [here](https://public.tableau.com/app/profile/nicholas.dell.aquilo/viz/MetisBusinessProject-Locations/Dashboard1).
 
