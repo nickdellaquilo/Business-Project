@@ -1,4 +1,4 @@
-# Expanding Your Restaurant Location in New York City
+# Expanding In The Restaurant Industry
 
 Nicholas Dell'Aquilo
 
