@@ -8,6 +8,4 @@ Nicholas Dell'Aquilo
 
 ## [Project Writeup](https://github.com/nickdellaquilo/Business-Project/blob/main/project-writeup.md)
 
-## [Slides]
-
-## [Tableau Dashboards]
+## [Presentation]
