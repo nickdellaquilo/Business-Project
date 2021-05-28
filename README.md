@@ -8,4 +8,4 @@ Nicholas Dell'Aquilo
 
 ## [Project Writeup](https://github.com/nickdellaquilo/Business-Project/blob/main/project-writeup.md)
 
-## [Presentation]
+## [Presentation](https://github.com/nickdellaquilo/Business-Project/blob/main/Project-Presentation.pdf)
