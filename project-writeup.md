@@ -20,5 +20,10 @@ Both datasets were filtered to remove duplicates, null values, and extreme outli
 
 ## Communication
 My presentation is located [here]().
+
 The dashboard for the location dataset is located [here]().
+
 The dashboard for the food dataset is located [here](https://public.tableau.com/app/profile/nicholas.dell.aquilo/viz/MetisBusinessProject-NutritionInfo/Dashboard1).
+
+![image](https://user-images.githubusercontent.com/22899761/119958341-f5710800-bf70-11eb-98c5-bc4d69e50888.png)
+
