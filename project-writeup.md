@@ -10,7 +10,7 @@ The project is designed to aid a restaurant chain in their efforts to expand the
 The data consists of two tables from New York City's [Open Data](https://opendata.cityofnewyork.us/). The [Restaurant Applications](https://data.cityofnewyork.us/Transportation/Open-Restaurant-Applications/pitm-atqc) dataset has ~12,400 rows and 35 columns, detailing descriptive information of restaurants with outdoor seating, including their location and seating size. The [MenuStat](https://data.cityofnewyork.us/Health/DOHMH-MenuStat/qgc5-ecnb) dataset contains ~65,200 rows with 49 columns, describing the nutritional information of items from several different restaurant chains.
 
 ## Algorithms
-Both datasets were filtered to remove duplicates, null values, and extreme outliers where applicable. Visualizations were 
+Both datasets were filtered to remove duplicates, null values, and extreme outliers where applicable. Visualizations were created using Tableau to perform a preliminary exploratory data analysis.
 
 ## Tools
 
@@ -18,3 +18,5 @@ Both datasets were filtered to remove duplicates, null values, and extreme outli
 * Tableau for data visualizations
 
 ## Communication
+Slides are located [here]().
+Tableau dashboards can be found [here]().
